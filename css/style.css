@@ -1,0 +1,16 @@
+ body{
+	 	color: red;
+	 }
+
+.koopButton {
+
+	font-size: 100px; 	
+	background-color: green;
+}
+
+.stopButton {
+	float: right;;
+
+	font-size: 10px; 	
+	background-color: red;
+}
