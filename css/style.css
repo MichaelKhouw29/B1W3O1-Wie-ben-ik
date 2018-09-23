@@ -1,16 +1,33 @@
- body{
-	 	color: red;
-	 }
+body {
+		color:red;
+		background-image: url("img/destiny2forsaken.jpg"); 
+	}
 
-.koopButton {
+	.imgprofiel {
+		float: none;
+		border: 2px solid black;
+	}
 
-	font-size: 100px; 	
-	background-color: green;
-}
 
-.stopButton {
-	float: right;;
 
-	font-size: 10px; 	
-	background-color: red;
-}
+body {
+	    color:red;
+		background-image: url("img/warframe.jpg");
+	}
+
+	.imgopleiding {
+		float: right;
+		border: 2px solid black;
+	}	
+
+
+
+body {
+	    color:white;
+		background-image: url("img/dagames.png");
+	}
+
+	.imgvooropleiding {
+		float: right;
+		border: 2px solid black;
+	}
